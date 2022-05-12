@@ -1,3 +1,16 @@
-bg-color{
-  background-color: ;
+.bg-color{
+  background-color: rgb(239, 239, 239);
 }
+
+.ft-color{
+  background-color: #616161;
+}
+
+.van-card{
+  background-color: #ffffff;
+  padding: 4em;
+  box-shadow: 0 4 7;
+  border-radius: 5px;
+  width: 50%;
+}
+

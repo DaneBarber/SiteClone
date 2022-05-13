@@ -11,6 +11,7 @@
   background-color: #616161;
 }
 
+
 .article {
   background-color: #ffffff;
   padding: 4em;
@@ -27,10 +28,14 @@
   width: 50%;
 }
 
-@media only screen and (min-width : 922px) {
+/* @media only screen and (min-width : 922px) {
   .article-new {
-      /* justify-content: */
+      justify-content: center;
   }
+} */
+
+.card{
+  box-shadow: 0px 4px 4px rgba(49, 49, 49, 0.5);
 }
 
 .article-new{

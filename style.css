@@ -1,3 +1,8 @@
+/* img {
+  width: 100%
+} */
+
+
 .bg-color {
   background-color: rgb(239, 239, 239);
 }
@@ -22,17 +27,17 @@
   width: 50%;
 }
 
-@media only screen and (min-width : 768px) {
+@media only screen and (min-width : 922px) {
   .article-new {
-      float: right;
+      /* justify-content: */
   }
 }
 
 .article-new{
-  display: flex;
   background-color: #ffffff;
-  padding: 4em;
+  justify-content: end;
+  padding: 0em;
   box-shadow: 0px 4px 4px rgba(49, 49, 49, 0.5);
   border-radius: 1px;
-  width: 35rem;
+  width: 100%;
 }

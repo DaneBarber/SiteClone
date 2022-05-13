@@ -42,6 +42,11 @@ h1 {
   border-radius: 0rem;
 }
 
+.card-img-top{
+  border-top-left-radius: 0rem;
+  border-top-right-radius: 0rem;
+}
+
 .article-new{
   background-color: #ffffff;
   justify-content: end;

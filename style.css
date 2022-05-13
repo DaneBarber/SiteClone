@@ -21,3 +21,18 @@
   border-radius: 5px;
   width: 50%;
 }
+
+@media only screen and (min-width : 768px) {
+  .article-new {
+      float: right;
+  }
+}
+
+.article-new{
+  display: flex;
+  background-color: #ffffff;
+  padding: 4em;
+  box-shadow: 0px 4px 4px rgba(49, 49, 49, 0.5);
+  border-radius: 1px;
+  width: 35rem;
+}
